@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer-extra": "latest",
-    "puppeteer-extra-plugin-recaptcha": "latest",
-    "puppeteer-extra-plugin-adblocker": "latest",
-    "puppeteer-extra-plugin-anonymize-ua": "latest",
-    "puppeteer-extra-plugin-stealth": "latest"
+    "puppeteer-extra": "*",
+    "puppeteer-extra-plugin-recaptcha": "*",
+    "puppeteer-extra-plugin-adblocker": "*",
+    "puppeteer-extra-plugin-anonymize-ua": "*",
+    "puppeteer-extra-plugin-stealth": "*"
   }
 }
